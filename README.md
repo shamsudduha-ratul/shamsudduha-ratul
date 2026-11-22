@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://sarkar.it/hub_banner.php](https://sarkarsab.xyz/assets/hub_banner.ph)" alt="Ratul's Digital Hub" width="100%"/>
+  <img src="[https://sarkar.it/hub_banner.php](https://sarkarsab.xyz/hub_banner.php)" alt="Ratul's Digital Hub" width="100%"/>
 </p>
 
 # 💫 About Me:
